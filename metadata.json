@@ -1,0 +1,6 @@
+{
+  "name": "Swasthya Drishti",
+  "description": "An AI-powered monitoring dashboard for healthcare infrastructure in India, featuring role-based views for Patients, Doctors, Health Centre Staff, Healthcare In-charges, District Magistrates, and Members of Parliament.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
